@@ -7,7 +7,7 @@ Una aplicación web interactiva construida con Streamlit para visualizar la refl
 
 **¡Puedes probar la aplicación en vivo en el siguiente enlace!**
 
-### ➡️ [reflexion.streamlit.app](https://reflexion.streamlit.app) ⬅️
+### ➡️ [reflexion.streamlit.app](https://proyecto-reflexion.streamlit.app) ⬅️
 
 ## ✨ Características Principales
 
